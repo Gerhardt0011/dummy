@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Dummy ;)
+                    Dummy V2 ;)
                 </div>
 
                 <div class="links">
